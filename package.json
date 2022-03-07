@@ -1,5 +1,5 @@
 {
-  "name": "AbilBotz",
+  "name": "FirjaBotz",
   "version": "1.0.0",
   "description": "Gak Ada",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "AbilBotz",
+  "author": "FirjaGanz",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
     "async": "^2.4.1",
