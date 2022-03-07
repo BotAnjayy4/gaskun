@@ -801,12 +801,12 @@ storee =
 ➛ 10K ( SCRIPT BIASA )
 ➛ 30K ( SCRIPT GG )
 ➛ TIDAK UNTUK DIJUAL LAGI
-➛ Minat ? Pc Wa.me/6282293295376
+➛ Minat ? Pc wa.me/6289667644225
 
 𝗝𝗜K𝗔 𝗕𝗘𝗥𝗠𝗜𝗡𝗔𝗧...
 Silahkan Hubungi Owner 🙏
-Wa.me/6282293295376
-( ABIL STORE ) - ( ABIL BOTZ )`
+wa.me/6289667644225
+( IndraStore ) - ( IndraStore )`
 but = [
 { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ CHAT OWNER' }, type: 1 }
 ]
@@ -836,10 +836,10 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │❏  BUAT MAENAN 
 ╰────
 ╭─[ *MINAT CHAT* ]
-│❏ wa.me/6282293295376?text=buy+premium
+│❏ wa.me/6289667644225?text=buy+premium
 ╰────
 ╭─[ *TES BOT? PC OWNER* ]
-│❏  Wa.me/6282293295376
+│❏  wa.me/6289667644225
 ╰────
 ╭─[ *PAYMENT* ]
 │❏  GOPAY
@@ -877,10 +877,10 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │❏  BUAT MAENAN 
 ╰────
 ╭─[ *MINAT CHAT* ]
-│❏ wa.me/6282293295376?text=sewa+bot
+│❏ wa.me/6289667644225?text=sewa+bot
 ╰────
 ╭─[ *TES BOT? PC OWNER* ]
-│❏  Wa.me/6282293295376
+│❏  wa.me/6289667644225
 ╰────
 ╭─[ *PAYMENT* ]
 │❏  GOPAY
@@ -931,7 +931,7 @@ if (isBanned) return reply(mess.Ban)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fstatus})
  listMsg = {
  buttonText: '𝐏𝐀𝐘??𝐄𝐍𝐓𝐍𝐘𝐀 🏷️',
- footerText: 'ABIL BOTZ',
+ footerText: 'IndraStore',
  description: `Hai kak @${sender.split('@')[0]}, Silahkan pilih Metode Pembayaran disini`,
  sections: [
                      {
@@ -962,7 +962,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 gopeynya = 'https://bit.ly/qrgopay'
 buff = await getBuffer(gopeynya)
 teksnya = `Hai kak ${pushname}
-Silahkan scan kode pembayaran di Bawah Dengan Cara Klik Linknya\nhttps://bit.ly/qrgopay\nAN: ABIL
+Silahkan scan kode pembayaran di Bawah Dengan Cara Klik Linknya\nhttps://telegra.ph/file/ea54eb46e98b4e8153bab.jpg
 *TUTORIAL SCAN*
 1. PASTIAN AKUN GOPAY UDH PREMIUM
 2. PENCET BAYAR
